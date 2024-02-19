@@ -1,0 +1,1 @@
+Install Jenkins: First, you need to install Jenkins on your server. You can download the Jenkins war file from the official website and run it using Java, or you can install Jenkins using package managers like apt or yum depending on your operating system.

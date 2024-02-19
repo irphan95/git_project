@@ -1,3 +1,0 @@
-kube-apiserver: This component serves as the front-end to the Kubernetes control plane. It exposes the Kubernetes API, which is used by other components to communicate and manage the cluster.
-
-kube-scheduler: This component is responsible for scheduling pods (groups of one or more containers) onto nodes (individual machines) in the cluster based on resource availability, affinity/anti-affinity requirements, and other constraints.

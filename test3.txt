@@ -1,0 +1,1 @@
+Setting up a CI/CD (Continuous Integration/Continuous Deployment) pipeline using Jenkins typically involves several steps.
